@@ -1,0 +1,21 @@
+2026-03-04 14:44:03 | INFO | oficinas_sync | GET https://www.abaigroup.com/donde-encontrarnos/
+2026-03-04 14:44:06 | INFO | oficinas_sync | Corte por footer/cookies: 'Contacto'
+2026-03-04 14:44:06 | INFO | oficinas_sync | Scrape OK. Total oficinas: 0
+2026-03-04 14:56:13 | INFO | oficinas_sync | GET https://www.abaigroup.com/donde-encontrarnos/
+2026-03-04 14:56:16 | INFO | oficinas_sync | Detectado país: España
+2026-03-04 14:56:21 | INFO | oficinas_sync | Corte por footer/cookies: 'Close'
+2026-03-04 14:56:21 | INFO | oficinas_sync | Scrape OK. Oficinas encontradas: 8
+2026-03-04 14:56:21 | WARNING | oficinas_sync | Faltan API_BASE_URL / API_USERNAME / API_PASSWORD. Solo exportaré el scrape a Excel.
+2026-03-04 14:56:22 | INFO | oficinas_sync | Excel generado (solo scrape): oficinas.xlsx (rows=8)
+2026-03-04 15:03:46 | INFO | oficinas_sync | GET https://www.abaigroup.com/donde-encontrarnos/
+2026-03-04 15:03:49 | INFO | oficinas_sync | Detectado país: España
+2026-03-04 15:03:49 | INFO | oficinas_sync | Detectado país: Colombia
+2026-03-04 15:03:49 | INFO | oficinas_sync | Detectado país: Portugal
+2026-03-04 15:03:49 | INFO | oficinas_sync | Detectado país: Brasil
+2026-03-04 15:03:49 | INFO | oficinas_sync | Detectado país: Perú
+2026-03-04 15:03:49 | INFO | oficinas_sync | Corte por footer/cookies: 'CONTACTO'
+2026-03-04 15:03:49 | INFO | oficinas_sync | Scrape OK. Total oficinas: 14
+2026-03-04 15:03:49 | INFO | oficinas_sync | Resumen por país: {'España': 8, 'Colombia': 3, 'Portugal': 1, 'Brasil': 1, 'Perú': 1}
+2026-03-04 15:04:00 | INFO | oficinas_sync | Oficinas extraídas: 14
+2026-03-04 15:04:00 | WARNING | oficinas_sync | Faltan API_BASE_URL / API_USERNAME / API_PASSWORD. Exportaré solo el scrape a Excel.
+2026-03-04 15:04:00 | INFO | oficinas_sync | Excel generado (solo scrape): oficinas.xlsx (rows=14)
